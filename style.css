@@ -1,0 +1,71 @@
+body {
+    /*imagen de fondo*/
+    background-image: url('https://i.pinimg.com/originals/a9/39/2d/a9392d31e0d0181969ea353aa2a71e32.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ffffff;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    margin-left: 40%;
+}
+
+main {
+    background-color: transparent;
+    margin-top: 0px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-left: 200px;
+    padding-top: 0px;
+}
+
+header {
+    background-color: transparent;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.img1 {
+
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Lobster', cursive;
+    color: crimson;
+    font-size: 30px;
+    text-align: center;
+}
+
+.boton1 {
+    border: none;
+    color: white;
+    background-color: blue;
+    margin-left: 25%;
+}
+
+.boton2 {
+    color: white;
+    border: none;
+    background-color: red;
+}
+
+#cuerpo{
+    text-align: center;
+}
+
+.pc{
+    margin-right: 500px;
+}

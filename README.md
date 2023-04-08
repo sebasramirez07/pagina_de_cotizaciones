@@ -1,2 +1,4 @@
 # pagina_de_cotizaciones
-https://i.postimg.cc/4d2htmk8/pagina.png
+
+
+[![pagina.png](https://i.postimg.cc/4d2htmk8/pagina.png)](https://postimg.cc/0MmQ15Nm)
